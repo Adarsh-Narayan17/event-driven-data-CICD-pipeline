@@ -1,3 +1,5 @@
+#Adarsh Narayan
+
 # Event-Driven Data Pipeline (AWS + Terraform + GitHub Actions)
 
 ## Architecture
@@ -28,3 +30,4 @@ GitHub Push → GitHub Actions → Terraform → AWS
 ## How to Deploy
 - Add AWS secrets
 - Push to main branch
+
